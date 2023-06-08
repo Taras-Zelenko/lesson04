@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-08"?>
+<garage>
+    <object type="car">
+        <brand>Fiat</brand>
+        <model>Doblo</model>
+        <lenght>5000</lenght>
+        <width>1800</width>
+        <height>1500</height>
+        <drivers>
+            <driver>
+                <first_name>Anton</first_name>
+                <last_name>Second</last_name>
+                <licence_id>ACC 00100</licence_id>
+            </driver>            
+        </drivers>
+    </object>
+    <object type="bike">
+        <brand>Audi</brand>
+    </object> 
+</garage>

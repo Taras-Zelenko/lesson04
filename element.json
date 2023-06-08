@@ -1,0 +1,26 @@
+{
+    "garage": [
+        {
+            "type": "car",
+            "brand": "Fiat",
+            "model": "Doblo",
+            "lenght": 5000,
+            "width": 1800,
+            "height": 1500,
+            "drivers": [
+                {
+                    "first_name": "Anton",
+                    "last_name": "Second",
+                    "licence_id": "ACC 00100"
+                }
+            ]
+        },
+        {
+            "type": "bilke",
+            "brand": "Audi"
+        }
+
+    ]
+
+
+}
